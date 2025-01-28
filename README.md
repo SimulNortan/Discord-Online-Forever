@@ -1,4 +1,4 @@
-# Discord-Online-Forever
+# haha
 Keep ypou Discord profile online forever
 
 1. Register Replit - https://Replit.com
